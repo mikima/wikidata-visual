@@ -1,2 +1,2 @@
 # wikidata-visual
-experiment wit wikidata information
+experiment with wikidata information
